@@ -1,0 +1,6 @@
+{
+  "Name": "Robot 2 Customer Onboarding Data Capturer",
+  "ProjectType": "Process",
+  "Description": "Upload Customer data from spreadsheet into a web CRM app and a Desktop CRM app, Simultaneously ",
+  "MainFile": "Main.xaml"
+}
