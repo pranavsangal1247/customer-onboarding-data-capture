@@ -171,3 +171,11 @@ End-to-end automation design
 This project provided practical experience in designing and implementing an end-to-end RPA workflow involving multiple applications and data sources.
 
 It demonstrates how UiPath can be used to automate repetitive business processes while maintaining structured workflows and handling application-level challenges.
+
+⚠️ Disclaimer
+
+This project was developed as part of an RPA learning project using a demo CRM application.
+
+The CRM application itself is not included in this repository because it is a third-party application.
+
+The included customer data is dummy/sample data created for demonstration purposes only.
